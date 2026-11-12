@@ -7,7 +7,7 @@
 <p align="center">The start page of the viewers and tools: the installed ones as tiles, one click starts one</p>
 
 The start page of the viewers and tools: CAD View, PDF View, Part View, Photo View, CIQ View, FITS View,
-GED View, SELforge and PC View as tiles, the installed ones with **Start**; a click starts
+GED View, MORSE Editor, SELforge and PC View as tiles, the installed ones with **Start**; a click starts
 one in a window of its own.
 
 ## Installing
